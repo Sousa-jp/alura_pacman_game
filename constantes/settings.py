@@ -1,0 +1,2 @@
+VELOCIDADE = 0.5
+RAIO = 30
